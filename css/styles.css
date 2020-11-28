@@ -1,0 +1,20 @@
+
+.txt-center {
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+   
+    flex-wrap: wrap;
+    /* width: 80%; */
+
+   
+
+}
+
+.img {
+    margin: 1.5rem;
+    border-radius: 5px;
+}
